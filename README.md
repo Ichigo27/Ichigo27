@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amit-ramani-798978204/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amit97ramani@gmail.com)
 
-Welcome to my Github page! I am Amit and I am currently finishing my Software Engineering Masters degree from Delhi Technical University!  
+Welcome to my Github page! I am Amit and I am currently pursuing my Software Engineering Masters degree from Delhi Technological University!  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
